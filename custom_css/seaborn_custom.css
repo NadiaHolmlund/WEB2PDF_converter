@@ -1,0 +1,19 @@
+/* Hide the sidebar by class or ID */
+.bd-sidebar-primary {
+    display: none !important;
+}
+
+/* Hide the header by class or ID */
+.bd-header {
+    display: none !important;
+}
+
+/* Hide the footer by class */
+.footer {
+    display: none !important;
+}
+
+/* Hide the skip link with class 'skip-link' */
+a.skip-link {
+    display: none !important;
+}

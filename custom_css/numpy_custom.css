@@ -1,0 +1,9 @@
+/* Hide the sidebar by class or ID */
+.bd-sidebar-primary {
+    display: none !important;
+}
+
+/* Hide the footer by class */
+.bd-footer {
+    display: none !important;
+}
